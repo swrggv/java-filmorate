@@ -1,4 +1,4 @@
-# About project  
+# Filmorate  
 Movie search service. You can choose film for watching.
 It based on genres and likes from other users.
 
